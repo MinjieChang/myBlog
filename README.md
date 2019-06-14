@@ -5,6 +5,10 @@
 [进入博客](https://github.com/MinjieChang/myblog/issues)
 
 ## 目录
+### js
 1. [认识redux compose函数](https://github.com/MinjieChang/myblog/issues/2) 2019-04-023
 2. [实现Promise.all 和 promise.race](https://github.com/MinjieChang/myblog/issues/3) 2019-04-024
 3. [react抽离公共逻辑的方式](https://github.com/MinjieChang/myblog/issues/4) 2019-05-09
+
+### css
+1. [css实现圆角三角形](https://github.com/MinjieChang/myblog/issues/6)
