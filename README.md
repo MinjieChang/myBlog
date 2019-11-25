@@ -12,3 +12,8 @@
 
 ### css
 1. [css实现圆角三角形](https://github.com/MinjieChang/myblog/issues/6)
+
+### 设计模式
+1. [迭代器模式](https://github.com/MinjieChang/myblog/issues/10)
+1. [代理模式](https://github.com/MinjieChang/myblog/issues/9)
+1. [装饰者模式](https://github.com/MinjieChang/myblog/issues/8)
