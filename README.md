@@ -15,6 +15,7 @@
 1. [模拟实现Promise](https://github.com/MinjieChang/myblog/issues/21) 2020-08-31
 1. [async await 机制](https://github.com/MinjieChang/myblog/issues/20) 2020-08-31
 1. [函数柯里化](https://github.com/MinjieChang/myblog/issues/22) 2020-08-31
+1. [偏函数](https://github.com/MinjieChang/myblog/issues/24) 2020-08-31
 
 ### css
 1. [css实现圆角三角形](https://github.com/MinjieChang/myblog/issues/6) 
