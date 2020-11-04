@@ -30,6 +30,7 @@
 1. [react 性能优化](https://github.com/MinjieChang/myblog/issues/11) 2020-08-31
 1. [react ssr 构建](https://github.com/MinjieChang/myblog/issues/12) 2020-08-31
 1. [react抽离公共逻辑的方式](https://github.com/MinjieChang/myblog/issues/4) 2019-05-09
+2. [redux-saga浅析](https://github.com/MinjieChang/myblog/issues/28) 2020-11-3
 
 ### vue
 1. [vue简易版本实现](https://github.com/MinjieChang/myblog/issues/13) 2020-08-31
