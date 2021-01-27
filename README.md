@@ -33,11 +33,12 @@
 1. [使用css3实现圆形进度条](https://github.com/MinjieChang/myblog/issues/27) 2020-09-15
 
 ### react
-1. [react 组建库搭建](https://github.com/MinjieChang/mj-design) 2021-1-27
-2. [react 性能优化](https://github.com/MinjieChang/myblog/issues/11) 2020-08-31
-3. [react ssr 构建](https://github.com/MinjieChang/myblog/issues/12) 2020-08-31
-4. [react抽离公共逻辑的方式](https://github.com/MinjieChang/myblog/issues/4) 2019-05-09
-5. [redux-saga浅析](https://github.com/MinjieChang/myblog/issues/28) 2020-11-3
+1. [react 性能优化](https://github.com/MinjieChang/myblog/issues/11) 2020-08-31
+2. [react ssr 构建](https://github.com/MinjieChang/myblog/issues/12) 2020-08-31
+3. [react抽离公共逻辑的方式](https://github.com/MinjieChang/myblog/issues/4) 2019-05-09
+4. [redux-saga浅析](https://github.com/MinjieChang/myblog/issues/28) 2020-11-3
+5. [react 组建库搭建](https://github.com/MinjieChang/mj-design) 2021-1-27
+6. [react 动态面包屑导航](https://github.com/MinjieChang/myblog/issues/29) 2021-1-27
 
 ### vue
 1. [vue简易版本实现](https://github.com/MinjieChang/myblog/issues/13) 2020-08-31
@@ -46,9 +47,12 @@
 
 ### 设计模式
 1. [迭代器模式](https://github.com/MinjieChang/myblog/issues/10) 2019-08-09
-1. [代理模式](https://github.com/MinjieChang/myblog/issues/9) 2019-08-15
-1. [aop模式](https://github.com/MinjieChang/myblog/issues/8) 2019-08-20
-1. [发布订阅模式](https://github.com/MinjieChang/myblog/issues/19) 2020-08-31
-
+2. [代理模式](https://github.com/MinjieChang/myblog/issues/9) 2019-08-15
+3. [aop模式](https://github.com/MinjieChang/myblog/issues/8) 2019-08-20
+4. [发布订阅模式](https://github.com/MinjieChang/myblog/issues/19) 2020-08-31
+5. [策略模式](https://github.com/MinjieChang/myblog/issues/30) 2021-01-17
 ### node
 1. [koa2中间件模型](https://github.com/MinjieChang/myblog/issues/23) 2020-08-31
+
+### helpers
+1. [mac添加全局变量](https://github.com/MinjieChang/myblog/issues/31) 2021-01-27
