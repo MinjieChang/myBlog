@@ -8,6 +8,12 @@
 
 [在线阅读](https://minjiechang.github.io/recent/)
 
+## 其他在线预览项目
+
+1、css houduni 实践的demo [css houdini](https://minjiechang.github.io/react-css-houdini/#/)
+
+2、react 组建库的实践 [mj-design](https://minjiechang.github.io/mj-design/)
+
 ## 目录
 
 ### js
@@ -27,10 +33,11 @@
 1. [使用css3实现圆形进度条](https://github.com/MinjieChang/myblog/issues/27) 2020-09-15
 
 ### react
-1. [react 性能优化](https://github.com/MinjieChang/myblog/issues/11) 2020-08-31
-1. [react ssr 构建](https://github.com/MinjieChang/myblog/issues/12) 2020-08-31
-1. [react抽离公共逻辑的方式](https://github.com/MinjieChang/myblog/issues/4) 2019-05-09
-2. [redux-saga浅析](https://github.com/MinjieChang/myblog/issues/28) 2020-11-3
+1. [react 组建库搭建](https://github.com/MinjieChang/mj-design) 2021-1-27
+2. [react 性能优化](https://github.com/MinjieChang/myblog/issues/11) 2020-08-31
+3. [react ssr 构建](https://github.com/MinjieChang/myblog/issues/12) 2020-08-31
+4. [react抽离公共逻辑的方式](https://github.com/MinjieChang/myblog/issues/4) 2019-05-09
+5. [redux-saga浅析](https://github.com/MinjieChang/myblog/issues/28) 2020-11-3
 
 ### vue
 1. [vue简易版本实现](https://github.com/MinjieChang/myblog/issues/13) 2020-08-31
