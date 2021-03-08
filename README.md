@@ -10,27 +10,27 @@
 
 ## 其他在线预览项目
 
-1、css houduni 实践的demo [css houdini](https://minjiechang.github.io/react-css-houdini/#/)
-
-2、react 组建库的实践 [mj-design](https://minjiechang.github.io/mj-design/)
+1. css houduni 实践的demo [css houdini](https://minjiechang.github.io/react-css-houdini/#/)
+2. react 组建库的实践 [mj-design](https://minjiechang.github.io/mj-design/)
+3. vue简易版本实现 [vue-simple](https://minjiechang.github.io/simple-vue/)
 
 ## 目录
 
 ### js
 1. [认识redux compose函数](https://github.com/MinjieChang/myblog/issues/2) 2019-04-023
-1. [模拟实现Promise](https://github.com/MinjieChang/myblog/issues/21) 2020-08-31
-1. [async await 机制](https://github.com/MinjieChang/myblog/issues/20) 2020-08-31
-1. [函数柯里化](https://github.com/MinjieChang/myblog/issues/22) 2020-08-31
-1. [偏函数](https://github.com/MinjieChang/myblog/issues/24) 2020-08-31
-1. [promisefy](https://github.com/MinjieChang/myblog/issues/25) 2020-08-31
+2. [模拟实现Promise](https://github.com/MinjieChang/myblog/issues/21) 2020-08-31
+3. [async await 机制](https://github.com/MinjieChang/myblog/issues/20) 2020-08-31
+4. [函数柯里化](https://github.com/MinjieChang/myblog/issues/22) 2020-08-31
+5. [偏函数](https://github.com/MinjieChang/myblog/issues/24) 2020-08-31
+6. [promisefy](https://github.com/MinjieChang/myblog/issues/25) 2020-08-31
 
 ### css
 1. [css实现圆角三角形](https://github.com/MinjieChang/myblog/issues/6) 
-1. [css houdini究竟是什么](https://github.com/MinjieChang/myblog/issues/16) 2020-08-31
-1. [文本溢出隐藏总结](https://github.com/MinjieChang/myblog/issues/17) 2020-08-31
-1. [word-wrap 与 word-break](https://github.com/MinjieChang/myblog/issues/18) 2020-08-31
-1. [使用svg实现圆形进度条](https://github.com/MinjieChang/myblog/issues/26) 2020-09-10
-1. [使用css3实现圆形进度条](https://github.com/MinjieChang/myblog/issues/27) 2020-09-15
+2. [css houdini究竟是什么](https://github.com/MinjieChang/myblog/issues/16) 2020-08-31
+3. [文本溢出隐藏总结](https://github.com/MinjieChang/myblog/issues/17) 2020-08-31
+4. [word-wrap 与 word-break](https://github.com/MinjieChang/myblog/issues/18) 2020-08-31
+5. [使用svg实现圆形进度条](https://github.com/MinjieChang/myblog/issues/26) 2020-09-10
+6. [使用css3实现圆形进度条](https://github.com/MinjieChang/myblog/issues/27) 2020-09-15
 
 ### react
 1. [react 性能优化](https://github.com/MinjieChang/myblog/issues/11) 2020-08-31
@@ -39,11 +39,12 @@
 4. [redux-saga浅析](https://github.com/MinjieChang/myblog/issues/28) 2020-11-3
 5. [react 组建库搭建](https://github.com/MinjieChang/mj-design) 2021-1-27
 6. [react 动态面包屑导航](https://github.com/MinjieChang/myblog/issues/29) 2021-1-27
+7. [dora + atool-build 升级到 roadhog](https://github.com/MinjieChang/myblog/issues/32) 2021-3-8
 
 ### vue
 1. [vue简易版本实现](https://github.com/MinjieChang/myblog/issues/13) 2020-08-31
-1. [vuex简易实现](https://github.com/MinjieChang/myblog/issues/14) 2020-08-31
-1. [浅析vue的nextTick](https://github.com/MinjieChang/myblog/issues/15) 2020-08-31
+2. [vuex简易实现](https://github.com/MinjieChang/myblog/issues/14) 2020-08-31
+3. [浅析vue的nextTick](https://github.com/MinjieChang/myblog/issues/15) 2020-08-31
 
 ### 设计模式
 1. [迭代器模式](https://github.com/MinjieChang/myblog/issues/10) 2019-08-09
@@ -56,3 +57,4 @@
 
 ### helpers
 1. [mac添加全局变量](https://github.com/MinjieChang/myblog/issues/31) 2021-01-27
+2. [项目配置eslint+prettier](https://github.com/MinjieChang/myblog/issues/33) 2020-11-10
