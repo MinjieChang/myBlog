@@ -54,6 +54,7 @@
 5. [策略模式](https://github.com/MinjieChang/myblog/issues/30) 2021-01-17
 ### node
 1. [koa2中间件模型](https://github.com/MinjieChang/myblog/issues/23) 2020-08-31
+2. [import、export，require、exports模块化分析](https://github.com/MinjieChang/myBlog/issues/34) 2021-03-29
 
 ### helpers
 1. [mac添加全局变量](https://github.com/MinjieChang/myblog/issues/31) 2021-01-27
