@@ -57,6 +57,7 @@
 2. [import、export，require、exports模块化分析](https://github.com/MinjieChang/myBlog/issues/34) 2021-03-29
 3. [babel基本介绍](https://github.com/MinjieChang/myBlog/issues/35) 2021-05-11
 4. [实现一个删除console的babel插件](https://github.com/MinjieChang/myBlog/issues/36) 2021-05-12
+5. [实现一个lodash按需加载babel插件](https://github.com/MinjieChang/myBlog/issues/37) 2021-05-27
 
 ### helpers
 1. [mac添加全局变量](https://github.com/MinjieChang/myblog/issues/31) 2021-01-27
